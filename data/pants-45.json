@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "pants",
+  "address": "0xdf8E030c3BE481be8aAd7D40F34A09524269266A",
+  "risk": "0",
+  "title": "`nonReentrant` modifier should be used before any other modifier",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2021-10-defiprotocol-findings/issues/45"
+}
