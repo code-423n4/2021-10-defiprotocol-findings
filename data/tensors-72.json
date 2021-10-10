@@ -1,0 +1,9 @@
+{
+  "contest": "defiProtocol contest",
+  "handle": "tensors",
+  "address": "0x3C86b2B86F0A4B180802026cB1d0d73F80200AB3",
+  "risk": "G",
+  "title": "uint256 can be lowered to unitX with X < 256 in some cases",
+  "issueId": 72,
+  "issueUrl": "https://github.com/code-423n4/2021-10-defiprotocol-findings/issues/72"
+}
