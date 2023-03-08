@@ -1,3 +1,11 @@
+---
+sponsor: "Kuiper"
+slug: "2021-10-defiprotocol"
+date: "2022-01-26"
+title: "Kuiper contest"
+findings: "https://github.com/code-423n4/2021-10-defiprotocol-findings/issues"
+contest: 41
+---
 
 # Overview
 
